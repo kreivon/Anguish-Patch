@@ -1,0 +1,13 @@
+{
+    "parent": "anguish:item/extended",
+    "textures": {
+        "layer0": "anguish:item/diamond_battleaxe"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1.6, 1.6, 1.6 ]
+        }
+    }
+}

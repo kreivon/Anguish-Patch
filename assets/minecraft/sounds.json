@@ -1,0 +1,12 @@
+{
+	"item.totem.use": {
+		"replace": true,
+		"sounds": [
+			"anguish:navi_hey_bottle",
+			"anguish:navi_look_bottle",
+			"anguish:navi_listen_bottle",
+			"anguish:navi_hello_bottle",
+			"anguish:navi_watch_out_bottle"
+		]
+	}
+}

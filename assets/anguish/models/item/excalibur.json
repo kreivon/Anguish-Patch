@@ -1,0 +1,23 @@
+{
+    "parent": "anguish:item/extended",
+    "textures": {
+        "layer0": "anguish:item/excalibur"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ -0.85, -0.75, 0 ],
+            "scale": [ 1.75, 1.75, 1.75 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 1, 0],
+            "scale":[ 0.875, 0.875, 0.4375 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0.85, -0.75, 0 ],
+            "scale": [ 1.75, 1.75, 1 ]
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "parent": "anguish:item/extended",
+    "textures": {
+        "layer0": "anguish:item/TEXTURE"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ x, y, 0 ],
+            "scale": [ z, z, z ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 1, 0],
+            "scale":[ z/2, z/2, z/4 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ -x, y, 0 ],
+            "scale": [ z, z, 1 ]
+        }
+    }
+}
